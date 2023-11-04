@@ -1,0 +1,54 @@
+
+.container{
+    margin-top: 5rem;
+    padding-top: 2rem;
+    background-color: rgb(214, 214, 222);
+    width: 45rem;
+    height: 35rem;
+    align-items: center;
+    color: #faf8f8;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.container .city{
+    font-size: 1rem;
+    border-radius: 8px;
+    padding: 1rem;
+    
+}
+
+.container .btn{
+    font-size: 1rem;
+    background-color: rgb(246, 237, 172);
+    color: #000;
+}
+.card{
+    background-color: rgb(214, 214, 222);
+    width: 35rem;
+    height: 26rem;
+    padding: 2rem;
+    border: none;
+}
+.row .row1{
+    padding-top: 2rem;
+    font-family: sans-serif;
+}
+.row .row2 img{
+    height: 20rem;
+    margin-left: 5rem;
+    width:15rem;
+    opacity: 0.8;
+    border-radius: 8px;
+}
+
+
+.container-card{
+    background-color: rgb(154, 194, 228);
+    width: 20rem;
+    height: 20rem;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border: none;
+    padding-top: 2rem;
+    border-radius: 12px;
+}
+
+
